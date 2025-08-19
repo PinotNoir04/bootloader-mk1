@@ -19,3 +19,7 @@ My first attempt at making a simple bootloader
 ## Screenshots
 
 ![stage2](ss_stage2.png "Kernel Loaded")
+
+## Future Plans
+
+* Implement a filesystem
